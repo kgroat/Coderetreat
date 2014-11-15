@@ -1,0 +1,27 @@
+{
+  "name": "Coderetreat",
+  "version": "0.0.0",
+  "description": "",
+  "main": "board.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "~1.10.0",
+    "mocha": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegrtman/Coderetreat"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thegrtman/Coderetreat/issues"
+  },
+  "homepage": "https://github.com/thegrtman/Coderetreat"
+}
